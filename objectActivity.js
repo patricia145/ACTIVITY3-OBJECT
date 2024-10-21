@@ -1,6 +1,6 @@
 let car = {
-    type: "hatchback",
-    model: "Ford Focus",
+    type: "Ford Focus",
+    model: "Hatchback",
     color: "Blue"
 };
 
